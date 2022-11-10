@@ -1,0 +1,2 @@
+# Soccermatics
+Soccermatics course exercises
